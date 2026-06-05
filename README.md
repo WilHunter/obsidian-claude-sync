@@ -19,7 +19,7 @@ Integração entre **Claude Code** e **Obsidian** — injeta o vault como contex
 ## Instalação (cada dev roda uma vez)
 
 ```bash
-git clone <url-do-repo>
+git clone https://github.com/WilHunter/obsidian-claude-sync.git
 cd obsidian-claude-sync
 bash install.sh
 ```
